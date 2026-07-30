@@ -82,6 +82,31 @@ ML model training
 Visualization
 Statistical analysis
 
+## Project Modules
+
+### 1. Data Module
+Raw SetA + SetB physiological sensor files.
+
+### 2. Preprocessing Module
+Signal cleaning, filtering, normalization, missing‑value handling.
+
+### 3. Feature Extraction Module
+HRV, EDA peaks, EMG RMS, respiration rate, temperature slope, accelerometer magnitude.
+
+### 4. Dataset Integration Module
+Merging SetA + SetB into combined_features.csv.
+
+### 5. Exploratory Data Analysis (EDA) Module
+Visualizations, correlations, distributions, sensor comparisons.
+
+### 6. Modeling Module (Baseline)
+Simple classifier or placeholder for future predictive models.
+
+### 7. Documentation Module
+README.md, SUMMARY.md, project explanation, research brief.
+
+
+
 🤝 Contributing
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to modify.
