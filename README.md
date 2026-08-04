@@ -5,8 +5,6 @@ This dataset is ideal for machine learning models focused on stress classificati
 
 
 Full Feature Breakdown
-Below is a structured explanation of every column in your dataset.
-
 🕒 timestamp
 Time index for each sample.
 
